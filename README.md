@@ -20,7 +20,7 @@
 ### 🔹 [Air Quality Index Dashboard (Power BI)]
 > Power BI dashboard analyzing India's AQI from 2015–2024 using slicers, bar, line, matrix, and card visuals.
 
-### 🔹 [Emotion Detection System]([https://github.com/Alquamahansari/Emotion-Detection-System])
+### 🔹 [Emotion Detection System](https://github.com/Alquamahansari/Emotion-Detection-System)
 > Real-time facial emotion recognition using CNN and OpenCV.
 
 ### 🔹 [YouTube Video Downloader App](https://github.com/Alquamahansari/youtube-downloader)
