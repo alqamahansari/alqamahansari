@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Alquamah Ansari
 
-Final-year **B.Sc. Artificial Intelligence** student (Computer Science minor)  
+Final-year **B.Sc. Artificial Intelligence** student
 Passionate about **Machine Learning, Deep Learning & Data Science**  
 Building **end-to-end AI/ML applications** using free & open-source tools
 
