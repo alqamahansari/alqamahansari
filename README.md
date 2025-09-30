@@ -16,7 +16,7 @@ Building **end-to-end AI/ML applications** using free & open-source tools
 
 ## Featured Projects
 
-- **air-quality-dashboard** — Interactive Power BI dashboard visualizing air quality trends and insights
+- **Atmos** — Interactive Power BI dashboard visualizing air quality trends and insights
 - **alqamahansari.github.io** — Personal portfolio website showcasing projects and skills
 - **atmos** — Real-time weather dashboard built using JavaScript APIs
 - **Emotion-Detection-System** — ML system detecting emotions from facial expressions, text, or audio
