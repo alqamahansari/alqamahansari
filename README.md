@@ -1,4 +1,7 @@
-<h2 align="center">Hi, I’m Mohammad Alquamah Ansari 👋</h2>
+<h2 align="center">
+  Hi, I’m Mohammad Alquamah Ansari 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Final-year+B.Sc.+AI+Student;DevOps+%E2%80%A2+MLOps+%E2%80%A2+ML+Engineer;Building+Production-Ready+ML+Systems" alt="Typing SVG" />
