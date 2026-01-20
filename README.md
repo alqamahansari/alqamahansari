@@ -8,12 +8,17 @@
 </div>
 
 <p align="center">
-  I build <strong>production-oriented ML systems</strong> with a strong focus on  
-  <strong>automation, deployment, and scalability</strong>.
+  I design and build <strong>production-grade Machine Learning systems</strong>  
+  with an emphasis on <strong>reliability, automation, and reproducibility</strong>.
 </p>
 
 <p align="center">
-  Comfortable across the <strong>end-to-end ML lifecycle</strong> — data preprocessing → model training → containerized deployment → CI/CD.
+  Experienced across the <strong>end-to-end ML lifecycle</strong> —  
+  data engineering → model training → evaluation → containerized deployment → CI/CD.
+</p>
+
+<p align="center">
+  Currently deepening my focus on <strong>LLMs, representation learning, and ML systems</strong>.
 </p>
 
 
@@ -68,21 +73,40 @@
 
 | Project | Description | Tech Stack | Link |
 |-------|------------|------------|-------|
-| **Atmos – Weather Dashboar** | Real-time weather dashboard displaying live data with interactive UI | JavaScript, APIs, HTML, CSS | [atmos](https://github.com/AlqamahAnsari/atmos) |
+| **Atmos – Weather Dashboard** | Real-time weather dashboard displaying live data with interactive UI | JavaScript, APIs, HTML, CSS | [atmos](https://github.com/AlqamahAnsari/atmos) |
 | **House Price Prediction** | Machine learning model to predict house prices using structured data | Python, Scikit-learn, Pandas | [repo](https://github.com/AlqamahAnsari/house-price-prediction) |
 | **Emotion Detection System** | End-to-end ML/DL system for emotion classification with preprocessing & inference | Python, PyTorch | [repo](https://github.com/AlqamahAnsari/emotion-detection-system) |
 | **Air Quality Dashboard** | Interactive analytics dashboard to visualize air quality trends and insights | Power BI, Data Analysis | [repo](https://github.com/AlqamahAnsari/air-quality-dashboard) |
 
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alqamahansari&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alqamahansari&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+
 ## 🛠 What I Bring
 
-- Build and evaluate ML models using **Python & PyTorch**
-- Containerize applications with **Docker**
-- Set up basic **CI/CD pipelines**
-- Deploy ML models as services
-- Work with cloud platforms at a foundational level
-- Collaborate using **Git & GitHub**
+- Translate ML ideas into **deployable, testable systems**
+- Build **reproducible training and inference pipelines**
+- Containerize and version ML workloads using **Docker**
+- Set up **CI/CD workflows** for ML codebases
+- Deploy models as APIs and services
+- Collaborate effectively using **Git-based workflows**
+
+
+
+## 🔬 Current Focus
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- ML system design & deployment
+- Foundations for scalable and ethical AI
+
+
 
 ## 🤝 Connect
 
