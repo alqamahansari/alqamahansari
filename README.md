@@ -1,135 +1,120 @@
 <h2 align="center">
-  Hi, I’m Mohammad Alquamah Ansari 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I’m Mohammad Alquamah Ansari
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;DevOps+%E2%80%A2+MLOps+%E2%80%A2+Applied+AI;Building+Production-Ready+ML+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=520&lines=Designing+Intelligent+ML+Systems;Time-Series+%7C+Deep+Learning+%7C+MLOps;From+Experimentation+to+Scalable+Deployment;Exploring+Attention+%26+Transformer+Architectures" />
 </div>
 
 <p align="center">
-  I design and build <strong>production-grade Machine Learning systems</strong>  
-  with an emphasis on <strong>reliability, automation, and reproducibility</strong>.
+  I build <strong>intelligent Machine Learning systems</strong> that move from
+  structured experimentation to scalable deployment.
 </p>
 
 <p align="center">
-  Experienced across the <strong>end-to-end ML lifecycle</strong> —  
-  data engineering → model training → evaluation → containerized deployment → CI/CD.
+  My work spans <strong>modeling, evaluation, and ML infrastructure</strong> —
+  with a focus on time-series forecasting, deep learning, and production pipelines.
 </p>
 
 <p align="center">
-  Currently deepening my focus on <strong>LLMs, representation learning, and ML systems</strong>.
+  Currently deepening expertise in <strong>attention mechanisms, transformers, and ML system design</strong>.
 </p>
+
 
 
 ## 🎯 Skills
 
-### 💻 Languages & Frameworks
+### 🧠 Core Focus
+
+- Machine Learning (model training, evaluation, feature engineering)
+- Deep Learning (PyTorch, CNN, LSTM)
+- Time-Series Forecasting
+- Transformer & LLM Foundations
+- ML System Design
+
+### 💻 Programming & Frameworks
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,mongodb,sqlite,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,flask,sqlite,mongodb&theme=dark" />
 </p>
 
-### 🧠 Machine Learning & Deep Learning
-- Classical Machine Learning (training, evaluation, pipelines)
-- Deep Learning with PyTorch
-- Transformer & LLM fundamentals (RAG concepts)
+### 🧮 ML & Data Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ai,sklearn,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" />
 </p>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+</p>
 
-### ⚙️ DevOps & MLOps
-- Containerization & CI/CD
-- Reproducible ML workflows
-- Model deployment fundamentals
+- XGBoost
+- Matplotlib
+
+### ⚙️ MLOps & Engineering
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux&theme=dark" />
 </p>
 
+- Reproducible training pipelines  
+- Containerized deployment  
+- CI/CD for ML workflows  
 
+### ☁️ Tools & Platforms
 
-### ☁️ Cloud & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,anaconda,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=anaconda,vscode,azure&theme=dark" />
 </p>
 
 
+## 🚀 Selected Projects
 
-### 📊 Data & Visualization
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-
-</p>
-
-- Visualization: Matplotlib, Seaborn  
-- BI Tools: Excel, Power BI  
-
-
-
-## 🚀 Projects
-
-| Project | Description | Tech Stack | Link |
-|-------|------------|------------|-------|
-| **Atmos – Weather Dashboard** | Real-time weather dashboard displaying live data with interactive UI | JavaScript, APIs, HTML, CSS | [atmos](https://github.com/AlqamahAnsari/atmos) |
-| **House Price Prediction** | Machine learning model to predict house prices using structured data | Python, Scikit-learn, Pandas | [repo](https://github.com/AlqamahAnsari/house-price-prediction) |
-| **Emotion Detection System** | End-to-end ML/DL system for emotion classification with preprocessing & inference | Python, PyTorch | [repo](https://github.com/AlqamahAnsari/emotion-detection-system) |
-| **Air Quality Dashboard** | Interactive analytics dashboard to visualize air quality trends and insights | Power BI, Data Analysis | [repo](https://github.com/AlqamahAnsari/air-quality-dashboard) |
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alqamahansari&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alqamahansari&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+| Project | Focus | Description | Tech |
+|---------|-------|-------------|------|
+| **Air Quality Intelligence (AQI Forecasting)** | ML / DL Research | Spatio-temporal forecasting comparing XGBoost, Random Forest & LSTM with rolling validation | Python, LSTM, XGBoost |
+| **Car Price Prediction – MLOps Pipeline** | Production ML | End-to-end ML pipeline with Docker containerization and CI-driven training workflow | Python, Random Forest, Docker |
+| **Facial Emotion Detection** | Deep Learning | CNN-based computer vision system for facial emotion classification | PyTorch, OpenCV |
+| **Atmos – Weather App** | Frontend / API | Real-time weather application with API integration and dynamic UI | JavaScript, HTML, CSS |
 
 
 ## 🛠 What I Bring
 
-- Translate ML ideas into **deployable, testable systems**
-- Build **reproducible training and inference pipelines**
-- Containerize and version ML workloads using **Docker**
-- Set up **CI/CD workflows** for ML codebases
-- Deploy models as APIs and services
-- Collaborate effectively using **Git-based workflows**
-
-
+- Design and evaluate ML models using structured experimentation
+- Compare classical ML and deep learning architectures
+- Build reproducible training and inference pipelines
+- Develop production-ready ML systems with containerized deployment
+- Implement CI/CD workflows for ML codebases
+- Translate research ideas into scalable, testable systems
 
 ## 🔬 Current Focus
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- ML system design & deployment
-- Foundations for scalable and ethical AI
-
+- Attention-based architectures & Transformer fundamentals
+- Time-series forecasting systems
+- ML system scalability and reproducibility
+- Responsible and efficient AI design
 
 
 ## 🤝 Connect
 
 <p align="center">
-  <!-- Website / Portfolio (standard web icon) -->
   <a href="https://alqamahansari.github.io" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/domain.png" width="40" alt="Website"/>
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="40" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/alqamahansari" target="_blank">
     <img src="https://img.icons8.com/fluency/96/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Email (very clear mail icon) -->
   <a href="mailto:alquamahansari@gmail.com">
     <img src="https://img.icons8.com/fluency/96/mail.png" width="40" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  🌱 <em>Open to entry-level DevOps, MLOps, and Machine Learning roles</em>
+  🌱 <em>Open to entry-level Machine Learning and MLOps roles</em>
 </p>
-
