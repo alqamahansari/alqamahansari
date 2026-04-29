@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=520&lines=Designing+Intelligent+ML+Systems;Time-Series+%7C+Deep+Learning+%7C+MLOps;From+Experimentation+to+Scalable+Deployment;Exploring+Attention+%26+Transformer+Architectures" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+ML+Systems+That+Ship+to+Real+Users;NLP+to+LLMs+%7C+Computer+Vision+%7C+MLOps;End-to-End+-+Data+to+Deployed+Product;Exploring+Transformers+and+LLM+Architecture" />
 </div>
 
 <p align="center">
@@ -74,11 +74,10 @@
 
 | Project | Focus | Description | Tech |
 |---------|-------|-------------|------|
-| **Air Quality Intelligence (AQI Forecasting)** | ML / DL Research | Spatio-temporal forecasting comparing XGBoost, Random Forest & LSTM with rolling validation | Python, LSTM, XGBoost |
-| **Car Price Prediction – MLOps Pipeline** | Production ML | End-to-end ML pipeline with Docker containerization and CI-driven training workflow | Python, Random Forest, Docker |
-| **Facial Emotion Detection** | Deep Learning | CNN-based computer vision system for facial emotion classification | PyTorch, OpenCV |
-| **Atmos – Weather App** | Frontend / API | Real-time weather application with API integration and dynamic UI | JavaScript, HTML, CSS |
-
+| **AI Interview Performance Analyzer** | Multimodal AI | CNN facial emotion recognition + NLP speech evaluation pipeline with scoring engine | PyTorch, CNN, NLP |
+| **Car Price Prediction – MLOps Pipeline** | Production ML | End-to-end ML with Docker, CI/CD automation, Streamlit deployment | Scikit-learn, Docker, CI/CD |
+| **Emotion Detection System** | Computer Vision | CNN-based facial emotion classification system | PyTorch, OpenCV |
+| **Depression Detection** | NLP | Text-based depression signal detection | Python, Scikit-learn |
 
 ## 🛠 What I Bring
 
